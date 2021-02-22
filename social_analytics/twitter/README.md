@@ -29,4 +29,6 @@ O departamento de marketing da empresa _ABCD_ quer elaborar uma campanha de mark
 
 #### Metodologia utilizada
 Coleta, extração e limpeza do texto, criação de Corpus e da matriz de termos, análise junto com a área solicitante  a fim de ajustar os pesos das palavras, criação de nuvem de palavras
-[!nuvem de palavras](COVID_CNN_Twitter.JPG)
+<div align="center">
+       <img width="90%" src="COVID_CNN_Twitter.JPG" alt='nuvem de palavras'>
+</div>
